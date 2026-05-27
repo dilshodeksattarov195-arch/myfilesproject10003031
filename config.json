@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrarse",
+        "uuid": 30031148,
+        "checksum": "bluizo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
